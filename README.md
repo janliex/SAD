@@ -10,4 +10,4 @@
 # 學習管道與資源
 1. [ChatGPT](https://chat.openai.com/chat)
 2. [Medium](https://medium.com/)
-- HardHat學習：https://medium.com/my-blockchain-development-daily-journey/%E5%AE%8C%E6%95%B4%E7%9A%84hardhat%E5%AF%A6%E8%B8%90%E6%95%99%E7%A8%8B-a9b005aa4c12
+[HardHat學習](https://medium.com/my-blockchain-development-daily-journey/%E5%AE%8C%E6%95%B4%E7%9A%84hardhat%E5%AF%A6%E8%B8%90%E6%95%99%E7%A8%8B-a9b005aa4c12)
