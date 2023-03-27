@@ -10,4 +10,4 @@
 - 參考資料 https://tenten.co/learning/what-is-web3/
 
 # 參考的學習資源
-1. 
+ 
