@@ -10,4 +10,6 @@
 
 # 學習管道與資源
 1. [ChatGPT](https://chat.openai.com/chat)
-2. [Medium](https://medium.com/)
+2. [Medium]
+3. [GitHub](https://github.com/)
+4. [YouTube]
