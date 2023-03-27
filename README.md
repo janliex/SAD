@@ -1,6 +1,7 @@
 # SAD
 112-System Analysis and Design
 - 心智圖 https://gitmind.com/app/docs/mjdp0ssq
+- 作業1(心智圖講解影片） https://youtu.be/J6CN1Z9wZ4A
 
 # Web 3.0 是什麼？
 使用者不需要再透過Google、Facebook等大型公司留下個資、使用紀錄...，不再讓主導權掌握大型公司，真正把所有權還給使用者。
