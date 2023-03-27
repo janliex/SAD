@@ -8,4 +8,4 @@
 區塊鏈、大數據、虛擬實境、人工智慧等，皆是構成Web 3.0的重要技術。
 
 # 學習管道與資源
--[ChatGPT](https://chat.openai.com/chat)
+1. [ChatGPT](https://chat.openai.com/chat)
