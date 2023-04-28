@@ -2,6 +2,9 @@
 **112-System Analysis and Design**
 - 心智圖 https://gitmind.com/app/docs/mjdp0ssq
 - 作業1(心智圖講解影片） https://youtu.be/J6CN1Z9wZ4A
+- 作業2
+- 作業3 專題實作規劃 https://youtu.be/fto5Ddyfu8c
+        Web3.0數位學生證 專題規劃Notion   https://invented-collision-e37.notion.site/Web3-0-9f76de2cfdfb42cfa913f76345a6ea7d
 
 # Web 3.0 是什麼？
 使用者不需要再透過Google、Facebook等大型公司留下個資、使用紀錄...，不再讓主導權掌握大型公司，真正把所有權還給使用者。
