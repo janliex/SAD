@@ -2,7 +2,7 @@
 **112-System Analysis and Design**
 - 心智圖  https://gitmind.com/app/docs/mjdp0ssq
 - 作業1(心智圖講解影片） https://youtu.be/J6CN1Z9wZ4A
-- 作業2
+- 作業2(實作練習）
 - 作業3(專題實作規劃)  https://youtu.be/fto5Ddyfu8c <br>
  [專題規劃Notion](https://invented-collision-e37.notion.site/Web3-0-9f76de2cfdfb42cfa913f76345a6ea7d)
 
