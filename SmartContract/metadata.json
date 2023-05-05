@@ -1,0 +1,29 @@
+
+{
+    "name": "NTNU Student ID Card ",
+    "description": "這是我的學生證。",
+    "image": "https://gateway.pinata.cloud/ipfs/QmaMf2bdPuh2uxX7oPrzqXSM7iPhgXyQGh2dR2ufdgK79K",
+    "attributes": [
+      {
+        "trait_type": "姓名",
+        "value": "王小美"
+      },
+      {
+        "trait_type": "學號",
+        "value": "70368038A"
+      },
+      {
+        "trait_type": "學校",
+        "value": "國立台灣師範大學"
+      },
+      {
+        "trait_type": "系所",
+        "value": "科技應用與人力資源發展學系"
+      },
+      {
+        "trait_type": "有效期",
+        "value": "2023年6月30日"
+      }
+    ]
+  }
+  
