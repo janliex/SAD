@@ -23,3 +23,8 @@
 - [x] 實作練習
 - [ ] 製作專題計畫
  
+ # 前端開發學習
+ - Javascript
+ 已完成：
+ [12個章節-由淺入深學習Javascript](https://mtache.com/javascript)
+ 
