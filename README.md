@@ -25,7 +25,7 @@
  
  # 前端開發學習
  - Javascript
- 已完成：
+ 已完成：<br>
  [12個章節-由淺入深學習Javascript](https://mtache.com/javascript)<br>
  [我的練習](https://github.com/janliex/SAD/tree/main/Javascript%E7%B7%B4%E7%BF%92)
  
