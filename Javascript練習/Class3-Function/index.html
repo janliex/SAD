@@ -1,0 +1,26 @@
+<script>
+    //{}是一個scope bracket，用它去包著function的內容。
+    function alertz(){
+        var z = "Hello,Jenny!"; //區域變數
+        alert(z+"Today is a good day.");
+    }
+    //執行Function兩次
+    alertz();
+    alertz();
+
+    //parameter
+    function alertvar(x){
+        alert(x);
+    }
+    alertvar(10);
+
+    //Return
+    function age(year,birth){
+        var age = year - birth;
+        var a = 'I am ' + age + " old."
+        return a;
+    }
+    //需要設立新的變數儲存return回來的數值
+    var ans = age(2023,2002);
+    alert(ans);
+</script>
