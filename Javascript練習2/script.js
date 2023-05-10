@@ -308,6 +308,7 @@ for(var i=0; i<number.length; i++){
 }
 
 //class
+/* 不用寫這麼長串！
 var phone1 ={
     number :'123',
     year:2020,
@@ -334,3 +335,56 @@ var phone3 ={
         return 2023 - this.year;
     }
 }
+*/
+class Phone{ //通常會用大寫 
+    constructor(number,year,waterproof){
+        this.number = number;
+        this.year = year;
+        this.waterproof = waterproof;
+    }
+    phone_age(){
+        return 2023 - this.year;
+    }
+}
+var phone1 = new Phone ('123',2020,false);
+var phone2 = new Phone ('456',2018,false);
+var phone3 = new Phone ('789',2018,true);
+
+//取得html元素
+var h1 =  document.getElementById("header");
+console.log(h1); //可以用來偵錯
+h1.innerText = '早安你好';//改h1的字
+h1.style.background = 'purple'; //字的背景顏色
+h1.style.color = 'white';//字體顏色
+var link =  document.getElementById("link");
+console.log(link);
+link.href = 'https://www.w3schools.com/' //切換到w3school網頁
+
+//event listener
+
+/*此範例沒有完全寫在js
+ function click(element){
+    //alert("按啊！");
+    console.log(element);
+    element.innerText =("我被按了")//點擊按鈕後字會改變
+    element.style.color = 'white';//點擊按鈕後字顏色改變
+ }
+*/
+
+//檢測按下去後的結果
+ var btn = document.getElementById('btn');
+ btn.addEventListener("click",function(){
+    alert("按啊！");
+    this.innerText =("我被按了"); 
+    this.style.color = 'white';
+ })
+
+//檢測滑鼠是否有滑過去
+ var img = document.getElementById("img");
+ img.addEventListener("mouseover",function(){ //mouseover滑過去
+    this.src = ""
+ });
+ img.addEventListener("mouseout",function(){ //mouseout滑出
+    this.src = ""
+ });
+
