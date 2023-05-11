@@ -31,6 +31,6 @@
  [12個章節-由淺入深學習Javascript](https://mtache.com/javascript)<br>
   我的練習 [here](https://github.com/janliex/SAD/tree/main/Javascript%E7%B7%B4%E7%BF%92)<br>
  [Javascript-3小時初學者教學](https://www.youtube.com/watch?v=yZwlW5INhgk&t=5160s)<br>
-  我的練習[here](https://github.com/janliex/SAD/tree/main/Javascript%E7%B7%B4%E7%BF%922)
+  我的練習 [here](https://github.com/janliex/SAD/tree/main/Javascript%E7%B7%B4%E7%BF%922)
 
  
