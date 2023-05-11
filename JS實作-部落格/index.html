@@ -7,19 +7,28 @@
 
     </head>
     <body>
-        <h1 > 我的部落格 </h1>
-        <p>標題</p>
-        <input type="text" id="title"/> 
-        <p>內容</p>
-        <textarea id="content" rows="8"></textarea> 
-        <button id="btn">上傳</button>
-        <div id="list">
-            <div class="article">
-                <h2>今天是星期四</h2>
-                <p>星期四要上的課有日文、會計學</p>
-
+        <div class="flex">
+            <h1  > 我的部落格 </h1>
+            <p>標題</p>
+            <input type="text" id="title" style="background-color:lightgray; border:2px solid gray;" /> 
+            <p>內容</p>
+            <textarea id="content" rows="8" style="background-color:lightgray; border:2px solid gray;" ></textarea> <br>
+            <button id="btn">上傳</button>
+            <div id="list" style="color:SlateBlue;">
+                <div class="article">
+                    <h2>2023臺師大藝術節</h2>
+                    <p>5/9-5/12 日光大道 </p>
+    
+                </div>
+                <div class="article">
+                    <h2>今日天氣</h2>
+                    <p>今天天氣非常好，溫度為20-28度，不會下雨。 </p>
+    
+                </div>
             </div>
+            <script src="script.js"></script> 
+             <!--留意引入的地方-->
         </div>
-        <script src="script.js"></script> <!--留意引入的地方-->
-    </body>
+        
+    </body> 
 </html> 
