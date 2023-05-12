@@ -2,11 +2,11 @@
 **112-System Analysis and Design**
 - 心智圖  https://gitmind.com/app/docs/mjdp0ssq
 - 作業1(心智圖講解影片） https://youtu.be/J6CN1Z9wZ4A
-- 作業2(實作練習）https://youtu.be/L1W6oXMqXuo <br>
+- 作業2(Web3實作練習）https://youtu.be/L1W6oXMqXuo <br>
  [實作-部落格](https://github.com/janliex/SAD/tree/main/JS%E5%AF%A6%E4%BD%9C-%E9%83%A8%E8%90%BD%E6%A0%BC)
 - 作業3(專題實作規劃)  https://youtu.be/fto5Ddyfu8c <br>
  [專題規劃Notion](https://invented-collision-e37.notion.site/Web3-0-9f76de2cfdfb42cfa913f76345a6ea7d)
-- 作業4 
+- 作業4 (專題實作-上傳NFT) https://youtu.be/lkk5cc43OBw
 
 # Web 3.0 是什麼？
 使用者不需要再透過Google、Facebook等大型公司留下個資、使用紀錄...，不再讓主導權掌握大型公司，真正把所有權還給使用者。
