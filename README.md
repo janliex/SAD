@@ -7,7 +7,8 @@
 - 作業3(專題實作規劃)  https://youtu.be/fto5Ddyfu8c <br>
  [專題規劃Notion](https://invented-collision-e37.notion.site/Web3-0-9f76de2cfdfb42cfa913f76345a6ea7d)
 - 作業4 (專題實作-上傳NFT) https://youtu.be/lkk5cc43OBw
-- 期末專題 Web3.0數位學生證 
+- 期末專題
+ [Web3.0數位學生證](https://github.com/janliex/SAD/tree/main/%E5%B0%88%E9%A1%8C)
 # Web 3.0 是什麼？
 使用者不需要再透過Google、Facebook等大型公司留下個資、使用紀錄...，不再讓主導權掌握大型公司，真正把所有權還給使用者。
 核心概念為區塊鏈的「去中心化」。將網際網路轉化為一個大型資料庫，透過人工智慧發展建構出網路虛擬世界生態系。
