@@ -35,3 +35,11 @@
   我的練習 [here](https://github.com/janliex/SAD/tree/main/Javascript%E7%B7%B4%E7%BF%922)
 
 # 專題-Web3.0數位學生證 操作說明
+1. 下載專題中`React`檔案
+2. 打開終端機
+3. 導航到所下載檔案的`React`目錄位置
+4. 使用 `npm run server` 命令啟動伺服器。
+5. 再打開一個新的終端機
+6. 導航到所下載檔案的`React`目錄位置
+7. 執行 `npm run start` 命令以啟動應用程式
+
